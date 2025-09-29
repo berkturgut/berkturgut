@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-```yaml
-name: Octopus
-role: Web Developer @ Tourism E-commerce
-skills:
-  backend: [C#, ASP.NET Core, MySQL, SQL]
-  frontend: [React, TypeScript, JavaScript]
-  devops: [Jenkins, Docker, Prometheus, Grafana]
-currently_learning:
-  - Backend Developer Path @ Boot.dev
-  - Algorithms & Data Structures @ HackerRank
-interests: [Software Architecture, DevOps, CI/CD]
-contact:
-  linkedin: https://linkedin.com/in/yourprofile
-  github: https://github.com/yourusername
+I'm **Berk**, a **Backend Developer** in the e-commerce division of a tourism company.  
+I focus on building scalable and performant backend systems, and occasionally contribute to frontend projects.  
+In my free time, I explore **software architecture** and **DevOps practices**.
+
+---
+
+- 🔭 I’m currently working on:  
+  Designing and scaling backend solutions for tourism e-commerce  
+
+- 🌱 I’m currently learning:  
+  - Backend Developer Path on [Boot.dev](https://boot.dev/)  
+  - Algorithms & Data Structures on **HackerRank**  
+
+- 📫 How to reach me:  
+  [LinkedIn](#) · [GitHub](#)  
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend Development**  
+- C#, ASP.NET Core  
+- MSSQL, PostgreSQL  
+- Redis (caching & distributed data)  
+- Hangfire (background job scheduling)  
+
+**Frontend Development (Occasional)**  
+- React, TypeScript, JavaScript  
+
+**DevOps & Infrastructure**  
+- Docker, Jenkins  
+- Bash scripting, Linux (server & container operations)  
+- Prometheus, Grafana (monitoring & alerting)
